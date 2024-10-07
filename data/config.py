@@ -1,8 +1,8 @@
 # api id, hash
-API_ID = 1488
-API_HASH = 'abcde1488'
+API_ID = 28516534
+API_HASH = 'bd1b66c5922492e3f056a83c14ba8887'
 
-REF_LINK = 'https://t.me/dogshouse_bot/join?startapp=RRQUZbFUQTGTu0N5hAueeg'
+REF_LINK = 'https://t.me/PigshouseBot?start=1232652614'
 
 DELAYS = {
     'ACCOUNT': [5, 15],  # delay between connections to accounts (the more accounts, the longer the delay)
